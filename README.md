@@ -19,11 +19,15 @@ The interactive Power BI dashboard consists of three main pages:
 - **Page 3: Job & Compensation Insights, Why Are They Leaving?**  
   Insights into job roles, business travel, job satisfaction, overtime, income, and how they relate to attrition risk.
 <img width="1277" height="707" alt="Screenshot 2025-07-26 230932" src="https://github.com/user-attachments/assets/1be21231-bdfd-4234-9965-e19d5fb360af" />
+
   (Added Toolkit also)
+
+  
 ## Tools & Technologies
 - **Database:** SQL (for data exploration and aggregation)  
 - **Data Visualization:** Power BI (for dashboard creation and DAX measures)  
-- **Data Transformation:** Power Query (for data cleaning and creating calculated columns)  
+- **Data Transformation:** Power Query (for data cleaning and creating calculated columns)
+- **Data Modeling & Calculations: DAX (Data Analysis Expressions):**  For creating dynamic measures such as Total Employees, Attrition Count, Attrition Rate %, and advanced KPIs to support interactive and    insightful analytics.
 
 ## Project Workflow
 - **Problem Definition:** Defined key business questions related to employee attrition.  
