@@ -45,7 +45,7 @@ The interactive Power BI dashboard consists of three main pages:
 - **Job Role Importance:** The Sales Executive role has the highest number of leavers, closely followed by Laboratory Technicians and Sales Representatives.  
 - **Demographics:** Younger employees (18-25) and single employees are more likely to leave.  
 - **Income & Satisfaction:** Attrition is pronounced in lower income brackets. There is a strong negative correlation between job satisfaction and attrition risk.  
-- **Departmental Trends:** The Sales department experiences the most departures, followed by Research & Development.  
+- **Departmental Trends:** The Research & Development department experiences the most departures, followed by Sales.  
 
 ## Business Recommendations
 - **Review Overtime Policies:** Investigate high overtime in certain roles and departments. Consider additional hiring or process improvements to reduce workload.  
