@@ -73,7 +73,4 @@ The interactive Power BI dashboard consists of three main pages:
 - **Improve Employee Engagement:** Conduct surveys to identify dissatisfaction drivers and improve the work environment and management relationships.  
 - **Conduct Exit Interviews:** Analyze exit feedback systematically to discover root causes and prevent future attrition.  
 
-## How to Use This Repository
-- **SQL Script:** The [`HR Employee Attrition Project.sql`](HR-Employee-Attrition-project.sql) file contains all the queries used for initial data exploration.  
-- **Power BI File:** Download the `.pbix` file to interact with the dashboard directly (requires Power BI Desktop).  
-- **Dataset:** The raw [`HR-Employee-Attrition.csv`](HR-Employee-Attrition.csv) file is included for reference.  
+  
