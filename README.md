@@ -3,7 +3,27 @@
 ## Introduction
 This project provides a comprehensive analysis of employee attrition within a fictional company. The primary goal is to identify the key factors that contribute to employees leaving their jobs. By understanding these drivers, the business can make data-driven decisions to improve employee retention, boost morale, and reduce the costs associated with hiring and training new staff.
 
-The analysis was conducted using **SQL** for in-depth data exploration and **Power BI** for creating a dynamic, interactive dashboard to visualize the findings.
+The analysis was conducted using:
+
+1. Python for Exploratory Data Analysis (EDA) and insightful visualizations
+
+2. SQL for in-depth data exploration
+
+3. Power BI for creating a dynamic, interactive dashboard
+
+## Python-Based EDA
+A separate Python script (hr_attrition_analysis.py or .ipynb) was created to explore the dataset using data science libraries like pandas, seaborn, and matplotlib. Key tasks include:
+
+1. Data cleaning and descriptive statistics
+
+2. Distribution analysis of attrition across departments, income, age, job roles, and work environment
+
+3. Visualizations: box plots, count plots, and correlation heatmaps
+
+4. Deriving actionable business insights from data patterns
+
+https://github.com/chandshaurya/HR-Employee-Attrition-Analysis-Interactive-Dashboard/blob/main/hr.ipynb
+
 
 ## Dashboard Preview 📊
 The interactive Power BI dashboard consists of three main pages:
