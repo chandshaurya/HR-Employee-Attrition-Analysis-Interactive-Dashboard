@@ -30,15 +30,17 @@ The interactive Power BI dashboard consists of three main pages:
 
 - **Page 1: Attrition Overview**  
   High-level KPIs and attrition rates by department, gender, and overall.
-<img width="1274" height="713" alt="Screenshot 2025-07-26 230832" src="https://github.com/user-attachments/assets/80795d5d-8551-44ab-bf3b-82042ea02267" />
+<img width="1283" height="719" alt="project4-img1 jpg" src="https://github.com/user-attachments/assets/5ced0636-9eca-40c8-b658-9776b709eb4c" />
 
 - **Page 2: Demographic Deep Dive**  
   Detailed exploration of attrition by age, marital status, education, and distance from home.
-<img width="1271" height="711" alt="Screenshot 2025-07-26 230908" src="https://github.com/user-attachments/assets/f5b8293e-5536-4736-8724-8c0aefabc928" />
+<img width="1277" height="711" alt="project4-img2 jpg" src="https://github.com/user-attachments/assets/14516fbd-a5b4-4352-a5c3-5e96c31c4cdf" />
 
 - **Page 3: Job & Compensation Insights, Why Are They Leaving?**  
   Insights into job roles, business travel, job satisfaction, overtime, income, and how they relate to attrition risk.
-<img width="1277" height="707" alt="Screenshot 2025-07-26 230932" src="https://github.com/user-attachments/assets/1be21231-bdfd-4234-9965-e19d5fb360af" />
+<img width="1279" height="714" alt="project4-img3 jpg" src="https://github.com/user-attachments/assets/65310af1-e882-4ef9-a87d-b03d92b4c400" />
+
+
 
   (Added Toolkit also)
 
